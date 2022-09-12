@@ -1,4 +1,4 @@
-# API de temperatura
+# API de Tempo
 
 Projeto feito utilizando a API do OpenWeatherMap
 
